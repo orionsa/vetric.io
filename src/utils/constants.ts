@@ -1,0 +1,1 @@
+export const FB_GRAPHQL_EP = 'https://www.facebook.com/api/graphql/';
